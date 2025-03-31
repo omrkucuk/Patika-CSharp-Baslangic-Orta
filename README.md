@@ -30,7 +30,7 @@ Kurulum ve Çalıştırma
 
 Projeyi bilgisayarınıza klonlamak için:
 
-git clone https://github.com/kullaniciadi/repo-adi.git
+git clone https://github.com/omrkucuk/Patika-CSharp-Baslangic-Orta.git
 
 Ardından, herhangi bir proje klasörüne girip şu komutla çalıştırabilirsiniz:
 
