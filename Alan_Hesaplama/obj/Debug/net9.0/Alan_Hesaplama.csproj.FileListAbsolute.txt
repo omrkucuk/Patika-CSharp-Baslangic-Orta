@@ -1,0 +1,14 @@
+D:\Patika-.Net\Orta\Alan_Hesaplama\bin\Debug\net9.0\Alan_Hesaplama.exe
+D:\Patika-.Net\Orta\Alan_Hesaplama\bin\Debug\net9.0\Alan_Hesaplama.deps.json
+D:\Patika-.Net\Orta\Alan_Hesaplama\bin\Debug\net9.0\Alan_Hesaplama.runtimeconfig.json
+D:\Patika-.Net\Orta\Alan_Hesaplama\bin\Debug\net9.0\Alan_Hesaplama.dll
+D:\Patika-.Net\Orta\Alan_Hesaplama\bin\Debug\net9.0\Alan_Hesaplama.pdb
+D:\Patika-.Net\Orta\Alan_Hesaplama\obj\Debug\net9.0\Alan_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika-.Net\Orta\Alan_Hesaplama\obj\Debug\net9.0\Alan_Hesaplama.AssemblyInfoInputs.cache
+D:\Patika-.Net\Orta\Alan_Hesaplama\obj\Debug\net9.0\Alan_Hesaplama.AssemblyInfo.cs
+D:\Patika-.Net\Orta\Alan_Hesaplama\obj\Debug\net9.0\Alan_Hesaplama.csproj.CoreCompileInputs.cache
+D:\Patika-.Net\Orta\Alan_Hesaplama\obj\Debug\net9.0\Alan_Hesaplama.dll
+D:\Patika-.Net\Orta\Alan_Hesaplama\obj\Debug\net9.0\refint\Alan_Hesaplama.dll
+D:\Patika-.Net\Orta\Alan_Hesaplama\obj\Debug\net9.0\Alan_Hesaplama.pdb
+D:\Patika-.Net\Orta\Alan_Hesaplama\obj\Debug\net9.0\Alan_Hesaplama.genruntimeconfig.cache
+D:\Patika-.Net\Orta\Alan_Hesaplama\obj\Debug\net9.0\ref\Alan_Hesaplama.dll
